@@ -1,6 +1,4 @@
-<div align="center">
-### Olá, meu nome é Gustavo, sou desenvolvedor web, sempre em busca de conhecimento
-</div>
+## Olá, meu nome é Gustavo, sou desenvolvedor web, sempre em busca de conhecimento
 
 ##
 
